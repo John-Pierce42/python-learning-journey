@@ -1,12 +1,9 @@
-# python-learning-journey
- My Python Learning Journey! 🐍 Follow along as I explore Python from scratch, sharing projects, notes, and Codecademy progress. Join me in mastering Python, one step at a time.
-
  Welcome to My Python Learning Journey repository! 🐍 This repository documents my personal journey of learning Python from scratch.
 
 What You'll Find Here:
 
 Python Projects: Follow along as I tackle various Python projects, starting from simple scripts to more complex applications.
-Learning Notes: Dive into my notes, reflections, and observations as I progress through different Python concepts and topics.
+Notes: Dive into my notes, reflections, and observations as I progress through different Python concepts and topics.
 Codecademy Progress: Track my progress through Python courses on Codecademy, including completed exercises and projects.
 Community Engagement: Share your thoughts, provide feedback, or join discussions as I navigate through the challenges and triumphs of learning Python.
 Join me as I embark on this exciting adventure of mastering Python programming, one step at a time.
